@@ -2,8 +2,5 @@ miniconda3/
 .cache/
 .cache/pip/
 pip-cache/
-*.whl
 *.safetensors
-.ipynb_checkpoints/
-.git-credentials
 .git-credentials
